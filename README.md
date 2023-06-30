@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Gabriela, but feel free to call me Gabs
 
-- 🌱 I’m currently studying at Driven Education
+- 🌱 I completed a a software engineering bootcamp at Driven Education
 - 👯 I’m looking to find my first job as a junior developer
 - 💬 Ask me about anything, I'm happy to help
 - 📫 How to reach me:   
